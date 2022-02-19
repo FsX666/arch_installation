@@ -15,3 +15,9 @@ utiliser le theme se trouvant dans le repository sous le nom de Monokai_by_FsX.r
 Puis ajouter dans la configuration de i3:
 
 `bindsym control+space exec --no-startup-id rofi -modi "clipboard:greenclip print" -show clipboard`
+
+## Installation des polices Nerd
+
+`sudo mkdir -p /usr/local/share/fonts && sudo cp *.ttf /usr/local/share/fonts/ && sudo fc-cache`
+
+
