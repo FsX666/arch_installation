@@ -1,9 +1,9 @@
 # arch_installation
 
- ajout de flameshot
+# ajout de flameshot
 sudo pacman -Sy flameshot
 
- ajout de rofi-greenclip
+# ajout de rofi-greenclip
 sudo pacman -Sy rofi
 yay -S rofi-greenclip
 
