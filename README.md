@@ -4,9 +4,9 @@
 `sudo pacman -Sy flameshot`
 
 ## ajout de rofi-greenclip
-`sudo pacman -Sy rofi \
-yay -S rofi-greenclip \
-systemctl enable --user greenclip \
+`sudo pacman -Sy rofi \ <br \>
+yay -S rofi-greenclip \ <br \>
+systemctl enable --user greenclip \ <br \>
 systemctl start --user greenclip`
 
 ### modification du theme
